@@ -1,5 +1,6 @@
 # batchDOS
-A batch DOS which is still being worked on, don't worry, both the .bat and the compiled version (Might not work correctly) will be found.
+The compiled version wouldn't be possible without a batch compiler.
+This is batchDOS, packed with a file explorer, commands you would usually use, and **even** uses 1 variable!
 
 ### Info
 It is **not** a DOS emulator, It is incompatible with existing DOS programs.
