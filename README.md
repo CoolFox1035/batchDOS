@@ -8,4 +8,4 @@ To download, check releases.
 It is **not** a DOS emulator, It is incompatible with existing DOS programs.
 
 ##### Plans:
-Actually, there are no plans, Features that we want are currently being worked on.
+Improved file explorer
